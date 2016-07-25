@@ -1,2 +1,2 @@
 # midi2rgbw
-converts midi messages to neopixel colors
+arduino code to convert midi messages to neopixel colors
